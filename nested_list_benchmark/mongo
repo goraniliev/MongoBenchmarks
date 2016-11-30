@@ -1,0 +1,27 @@
+/* 1 */
+{
+    "_id" : ObjectId("583f4f893554ca133d1ae504"),
+    "fruits_flat_insertion_time" : 4.1895756721496582,
+    "docs_inserted" : 100000
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("583f4f8a3554ca133d1ae50f"),
+    "fruits_nested_insertion_time" : 0.5415697097778320,
+    "docs_inserted" : 100000
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("583f4fc23554ca13673734fa"),
+    "docs_retrieved" : 100000,
+    "fruits_flat_get_time" : 0.7656679153442383
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("583f4fc23554ca13673734fb"),
+    "docs_retrieved" : 10,
+    "fruits_nested_get_time" : 0.2186222076416016
+}
