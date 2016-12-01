@@ -1,0 +1,13 @@
+/* 1 */
+{
+    "_id" : ObjectId("583f74f53554ca35800a1767"),
+    "docs_retrieved" : 20096,
+    "fruit_mongoengine_flat_get_time" : 3.3314929008483887
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("583f74f53554ca35800a1768"),
+    "docs_retrieved" : 10,
+    "fruit_mongoengine_nested_get_time" : 0.4332759380340576
+}
